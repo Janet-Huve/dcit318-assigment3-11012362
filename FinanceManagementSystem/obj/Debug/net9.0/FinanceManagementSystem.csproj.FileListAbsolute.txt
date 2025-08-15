@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\dcit318 assignment 3\dcit318-assigment3-11012362\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.exe
+C:\Users\user\Desktop\dcit318 assignment 3\dcit318-assigment3-11012362\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.deps.json
+C:\Users\user\Desktop\dcit318 assignment 3\dcit318-assigment3-11012362\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.runtimeconfig.json
+C:\Users\user\Desktop\dcit318 assignment 3\dcit318-assigment3-11012362\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.dll
+C:\Users\user\Desktop\dcit318 assignment 3\dcit318-assigment3-11012362\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.pdb
+C:\Users\user\Desktop\dcit318 assignment 3\dcit318-assigment3-11012362\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\dcit318 assignment 3\dcit318-assigment3-11012362\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\dcit318 assignment 3\dcit318-assigment3-11012362\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.AssemblyInfo.cs
+C:\Users\user\Desktop\dcit318 assignment 3\dcit318-assigment3-11012362\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\dcit318 assignment 3\dcit318-assigment3-11012362\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.dll
+C:\Users\user\Desktop\dcit318 assignment 3\dcit318-assigment3-11012362\FinanceManagementSystem\obj\Debug\net9.0\refint\FinanceManagementSystem.dll
+C:\Users\user\Desktop\dcit318 assignment 3\dcit318-assigment3-11012362\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.pdb
+C:\Users\user\Desktop\dcit318 assignment 3\dcit318-assigment3-11012362\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.genruntimeconfig.cache
+C:\Users\user\Desktop\dcit318 assignment 3\dcit318-assigment3-11012362\FinanceManagementSystem\obj\Debug\net9.0\ref\FinanceManagementSystem.dll
